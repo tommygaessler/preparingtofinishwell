@@ -15,7 +15,7 @@ body
     max-width: 1140px;
 }
 
-.wrapper:after 
+.wrapper:after
 {
   content: "";
   display: table;
@@ -30,20 +30,20 @@ body
 .two_third {    width: 61.666%;  }
 .three_fourth { width: 69.75%;  }
 .full_column {  width: 94%; }
- 
-.one_half, 
-.one_third, 
-.two_third, 
-.three_fourth, 
-.one_fourth, 
-.full_column 
+
+.one_half,
+.one_third,
+.two_third,
+.three_fourth,
+.one_fourth,
+.full_column
 {
     float:left;
     margin-left: 3%;
     margin-bottom: 1%;
 }
 
-.one_fourth:first-of-type 
+.one_fourth:first-of-type
 {
   margin-left: 1.5%;
 }
@@ -57,7 +57,7 @@ body
     margin-bottom: 1%;
 }
 
-.uno_fourth {    width: 21.25%;  }
+.uno_fourth {  width: 94%  }
 .uno_fourth
 {
     float:left;
@@ -73,7 +73,7 @@ body
     margin-bottom: 1%;
 }
 
-.one_halff {    width: 45.45%;  }
+.one_halff {    width: 94%;  }
 .one_halff
 {
     float:left;
@@ -93,7 +93,7 @@ body
 
 /*----- Links -----*/
 
-a 
+a
 {
     transition: 333ms all ease-in-out;
 }
@@ -142,13 +142,13 @@ footer a:active
 
 /*----- Form -----*/
 
-form 
+form
 {
     width: 80%;
     margin: auto;
 }
 
-form p 
+form p
 {
     color: #313D46;
     font-size: 20px;
@@ -156,7 +156,7 @@ form p
     margin-bottom: 5px;
 }
 
-input, textarea 
+input, textarea
 {
     width: 100%;
     font-size: 20px;
@@ -178,7 +178,7 @@ input[type=submit]
 
 /*----- Video Embed -----*/
 
-.video-container 
+.video-container
 {
     position: relative;
     padding-bottom: 56.25%;
@@ -187,7 +187,7 @@ input[type=submit]
     overflow: hidden;
     width: 100%;
     background-color: transparent;
-    
+
     /*
     box-shadow: 0 -15px 15px -15px rgba(0, 0, 0, 0.6), 0 15px 15px -15px rgba(0, 0, 0, 0.6);
     */
@@ -207,9 +207,9 @@ iframe.googlemap
     background-color: transparent;
 }
 
-.video-container iframe,  
-.video-container object,  
-.video-container embed 
+.video-container iframe,
+.video-container object,
+.video-container embed
 {
     position: absolute;
     top: 0;
@@ -221,14 +221,14 @@ iframe.googlemap
 
 /* ----- Header ----- */
 
-#top-nav 
+#top-nav
 {
     display: none;
 }
 
-.toggle-menu img 
+.toggle-menu img
 {
-    border: 1px #777 solid; 
+    border: 1px #777 solid;
     border-radius: 5px;
     padding: 3px;
     margin: 0px 20px 0 0;
@@ -248,7 +248,7 @@ header
     background: linear-gradient(to bottom, #3d4f77, #616f92);
 }
 
-nav 
+nav
 {
     text-align: center;
     margin: auto;
@@ -310,7 +310,7 @@ main
     width: 90%;
 }
 
-.homewrapper:after 
+.homewrapper:after
 {
   content: "";
   display: table;
@@ -514,7 +514,7 @@ main
 
 .qoutebackground
 {
-    
+
     background-color: #FFF8F2;
     padding-top: 10px;
 }
@@ -546,9 +546,9 @@ main p
     color: #313D46;
 }
 
-.myButton 
+.myButton
 {
-    
+
     -moz-box-shadow: 0px 0px 0px 2px #3d4f77;
     -webkit-box-shadow: 0px 0px 0px 2px #3d4f77;
     box-shadow: 0px 0px 0px 2px #3d4f77;
@@ -602,7 +602,7 @@ main p
 .topspace
 {
     margin-top: 10px;
-    
+
 }
 
 .tests
@@ -766,7 +766,7 @@ hr
         color: #313D46;
         font-size: 25px;
     }
-    
+
     .author
     {
         font-size: 20px;
@@ -796,9 +796,9 @@ hr
     {
         padding-top: 0px;
     }
-    .uno_half 
-    {    
-    width: 94%;  
+    .uno_half
+    {
+    width: 94%;
     }
 
     .one_halff
@@ -814,64 +814,64 @@ hr
     {
         display: none;
     }
-    
+
     .family1
     {
         display: none;
     }
-    
+
     .family5
     {
        display: none;
     }
-    
+
     .family2
     {
         width: 90%;
     }
-    
+
     .family4
     {
         width: 90%;
     }
-    
+
     .contact
     {
         display: none;
     }
-    
+
     .one_third
     {
         width: 45.5%;
     }
-    
+
     .two_third
     {
         width: 94%;
     }
-    
+
     .one_half
     {
         width: 94%;
     }
-    
+
     nav h2
     {
         font-size: 110%;
     }
-    
+
     .logo
     {
         width: 50%;
     }
-    
+
     .qoute
     {
         line-height: 150%;
         color: #313D46;
         font-size: 30px;
     }
-    
+
     .author
     {
         font-size: 20px;
@@ -879,20 +879,20 @@ hr
         padding-bottom: 10px;
         color: #313D46;
     }
-    
+
     .girlkissinggrandpa
     {
         margin-top: 10px;
     }
-    
+
     .singlewomen
     {
         margin-top: 10px;
     }
-    
-    .uno_third 
-    {    
-        width: 94%; 
+
+    .uno_third
+    {
+        width: 94%;
         margin-top: 10px;
     }
 }
@@ -905,7 +905,7 @@ hr
         color: #313D46;
         font-size: 25px;
     }
-    
+
     .author
     {
         font-size: 18px;
@@ -913,7 +913,7 @@ hr
         padding-bottom: 10px;
         color: #313D46;
     }
-    
+
     nav h2
     {
         font-size: 95%;
@@ -932,7 +932,7 @@ hr
     {
         width: 94%;
     }
-    
+
     .logo
     {
         display: block;
@@ -941,14 +941,14 @@ hr
         width: 90%;
         margin-bottom: 20px;
     }
-    
+
     .qoute
     {
         line-height: 150%;
         color: #313D46;
         font-size: 22px;
     }
-    
+
     .author
     {
         font-size: 18px;
@@ -956,37 +956,37 @@ hr
         padding-bottom: 10px;
         color: #313D46;
     }
-    
+
     header
     {
         padding-bottom: 15px;
     }
-    
-    .one_fourth:first-of-type 
+
+    .one_fourth:first-of-type
     {
       margin-left: 3%;
     }
-    
+
     .videowrapper
     {
         width: 100%;
     }
-    
+
     main h1
     {
-        font-size: 30px; 
+        font-size: 30px;
     }
 }
 
 @media screen and (min-width: 611px)
 {
-   
+
 #top-nav {
   display: block !important;
 }
 .toggle-menu {
-  display: none; 
-}  
+  display: none;
+}
 }
 
 @media screen and (max-width: 480px)
@@ -997,7 +997,7 @@ hr
         color: #313D46;
         font-size: 20px;
     }
-    
+
     .author
     {
         font-size: 15px;
@@ -1021,7 +1021,7 @@ hr
         color: #313D46;
         font-size: 17px;
     }
-    
+
     .author
     {
         font-size: 15px;
@@ -1029,34 +1029,34 @@ hr
         padding-bottom: 10px;
         color: #313D46;
     }
-    
+
     .girlkissinggrandpa
     {
         display: none;
     }
-    
+
     .full
     {
         width: 94%;
     }
-    
+
     .singlewomen
     {
         margin-top: 10px;
         width: 85%;
     }
-    
+
     .one_third
-    {   
+    {
         width: 94%;
     }
-    
+
     .wrapper
     {
         width: 90%;
         margin: auto;
     }
-    
+
     main h1
     {
         font-size: 30px;
@@ -1071,7 +1071,7 @@ hr
         color: #313D46;
         font-size: 15px;
     }
-    
+
     .author
     {
         font-size: 12px;
@@ -1079,15 +1079,15 @@ hr
         padding-bottom: 10px;
         color: #313D46;
     }
-    
+
     main h2
     {
         font-size: 25px;
     }
-    
+
     main h1
     {
-        font-size: 25px; 
+        font-size: 25px;
     }
 }
 
@@ -1099,7 +1099,7 @@ hr
         color: #313D46;
         font-size: 12px;
     }
-    
+
     .author
     {
         font-size: 11px;
@@ -1107,22 +1107,22 @@ hr
         padding-bottom: 10px;
         color: #313D46;
     }
-    
+
     footer p
     {
         font-size: 13px;
     }
-    
+
     main h1
     {
         font-size: 24px;
     }
-    
+
     main h2
     {
         font-size: 21px;
     }
-    
+
     main p
     {
         font-size: 18px;
