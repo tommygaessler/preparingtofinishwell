@@ -1,29 +1,22 @@
+    <?php include('header.html');?>
+    <main>
+      <div class="wrapper">
 
+        <h1>Send Us a Message</h1>
 
-        <?php include('header.html');?>
-
-        <main>
-            <div class="wrapper">
-
-                <h1>Send Us a Message</h1>
-
-                <div class="contentbox3">
-                    <form action="mail.php" method="POST">
-                        <p>Your Name</p>
-                        <input type="text" name="name" />
-                        <p>Your Email</p>
-                        <input type="text" name="email" />
-                        <p>Message</p>
-                        <textarea name="message" rows="6" cols="25"></textarea>
-                        <div class="centerbutton">
-                            <input type="submit" value="Send" class="myButton"/>
-                        </div>
-                    </form>
-                </div>
+        <div class="contentbox3">
+          <form action="mail.php" method="POST">
+            <p>Your Name</p>
+            <input type="text" name="name" />
+            <p>Your Email</p>
+            <input type="text" name="email" />
+            <p>Message</p>
+            <textarea name="message" rows="6" cols="25"></textarea>
+            <div class="centerbutton">
+              <input type="submit" value="Send" class="myButton"/>
             </div>
-        </main>
-
-        <?php include('footer.html');?>
-
-    </body>
-</html>
+          </form>
+        </div>
+      </div>
+    </main>
+    <?php include('footer.html');?>
