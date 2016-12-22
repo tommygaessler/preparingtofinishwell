@@ -7,7 +7,7 @@
 
     <title>Preparing to Finish Well</title>
 
-    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css"/>
     <link rel="stylesheet" href="bootstrap.min.css">
     <link href="styles.css" rel="stylesheet" type="text/css"/>
 
