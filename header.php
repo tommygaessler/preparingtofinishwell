@@ -22,42 +22,42 @@
           <br>
         </a>
 
-        <a href="index.html">
+        <a href="index.php">
           <img src="images/common/colorlogo.PNG" class="logo" alt="Preparing to Finish Well">
         </a>
 
         <nav id="top-nav">
           <div class="row">
             <div class="one_fourth">
-              <a href="index.html">
+              <a href="index.php">
                 <div class="link">
                   <h2>Home</h2>
                 </div>
               </a>
             </div>
             <div class="one_fourth">
-              <a href="aboutus.html">
+              <a href="aboutus.php">
                 <div class="link">
                   <h2>About Us</h2>
                 </div>
               </a>
             </div>
             <div class="one_fourth">
-              <a href="seminars.html">
+              <a href="seminars.php">
                 <div class="link">
                   <h2>Seminars</h2>
                 </div>
               </a>
             </div>
             <div class="one_fourth">
-              <a href="resources.html">
+              <a href="resources.php">
                 <div class="link">
                   <h2>Resources</h2>
                 </div>
               </a>
             </div>
             <div class="one_fourth">
-              <a href="contact.html">
+              <a href="contact.php">
                 <div class="link">
                   <h2>Contact</h2>
                 </div>

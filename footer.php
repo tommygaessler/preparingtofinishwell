@@ -2,12 +2,12 @@
       <div class="wrapper">
         <div class="row">
           <div class="one_third">
-            <a href="contact.html">
+            <a href="contact.php">
                 <h2 class="contact">CONTACT</h2>
             </a>
           </div>
           <div class="two_third">
-            <a href="index.html">
+            <a href="index.php">
               <h3 class="textaligncenter">Preparing to Finish Well</h3>
             </a>
 

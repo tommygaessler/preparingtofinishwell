@@ -1,4 +1,4 @@
-    <?php include('header.html');?>
+    <?php include('header.php');?>
     <main>
       <div class="wrapper container">
 
@@ -45,7 +45,7 @@
         <div class="row contentbox">
           <div class="one_half">
 
-            <blockquote class="embedly-card" data-card-key="205e49a64b2d445f824c7df9480438be" data-card-controls="0"><h4><a href="http://www.nytimes.com/2015/03/17/health/the-trouble-with-advance-directives.html?_r=2">The Trouble With Advance Directives</a></h4><p>The man had written an advance directive four years ago, before his advancing dementia had made communication difficult. He had been very specific. In case of a life-threatening condition, "he wanted comfort care only, no heroics," said Dr. Rebecca Aslakson, a critical care anesthesiologist at Johns Hopkins Hospital in Baltimore.</p></blockquote>
+            <blockquote class="embedly-card" data-card-key="205e49a64b2d445f824c7df9480438be" data-card-controls="0"><h4><a href="http://www.nytimes.com/2015/03/17/health/the-trouble-with-advance-directives.php?_r=2">The Trouble With Advance Directives</a></h4><p>The man had written an advance directive four years ago, before his advancing dementia had made communication difficult. He had been very specific. In case of a life-threatening condition, "he wanted comfort care only, no heroics," said Dr. Rebecca Aslakson, a critical care anesthesiologist at Johns Hopkins Hospital in Baltimore.</p></blockquote>
             <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
           </div>
@@ -69,4 +69,4 @@
         </div>
       </div>
     </main>
-    <?php include('footer.html');?>
+    <?php include('footer.php');?>
