@@ -3,7 +3,7 @@
   $email = $_POST['email'];
   $message = $_POST['message'];
 
-  $to = "contact@preparingtofinishwell.org";
+  $to = "preparingtofinishwell@gmail.com";
   $subject = "Preparing to Finish Well";
   $emailcontent = "From: $name \n\n $message";
   $mailheader = "From: $email";

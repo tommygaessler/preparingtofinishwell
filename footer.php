@@ -13,7 +13,7 @@
 
             <hr>
 
-            <p>Email: <a href="mailto:contact@preparingtofinishwell.org">contact@preparingtofinishwell.org</a></p>
+            <p>Email: <a href="mailto:preparingtofinishwell@gmail.com">preparingtofinishwell@gmail.com</a></p>
 
             <p>Phone: 720-739-1124</p>
 
