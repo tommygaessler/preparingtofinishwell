@@ -61,6 +61,12 @@ body {
 
 /*----- Links -----*/
 
+a:focus {
+  color: #FFF8F2;
+  text-decoration: none;
+  outline: none;
+}
+
 a {
   transition: 333ms all ease-in-out;
 }
