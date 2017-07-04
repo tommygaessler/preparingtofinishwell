@@ -2,8 +2,8 @@
       <div class="wrapper">
         <div class="row">
           <div class="one_third">
-            <a href="contact.php">
-                <h2 class="contact">CONTACT</h2>
+            <a href="mailto:preparingtofinishwell@gmail.com">
+              <h2 class="contact">CONTACT</h2>
             </a>
           </div>
           <div class="two_third">
