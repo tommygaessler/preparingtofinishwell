@@ -1,4 +1,4 @@
-# [Preparing to Finish Well] (http://preparingtofinishwell.org)
+# [Preparing to Finish Well](http://preparingtofinishwell.org)
 
 Built using HTML and CSS!
 
