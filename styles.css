@@ -71,6 +71,16 @@ a {
   transition: 333ms all ease-in-out;
 }
 
+.register, .register:focus {
+  font-size: 30px;
+  color: #9E8249;
+}
+
+.register:hover {
+  color: #E3CA8A;
+  text-decoration: none;
+}
+
 nav a {
   color: #FFF8F2;
 }
